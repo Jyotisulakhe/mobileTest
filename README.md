@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The APi Demos Application Automation project is designed to test and validate different features of theAPi Demo using Appium. The automation scripts cover various scenarios such as Notifications functionality, Scrolling, Longpress ,Drag and Drop functionalities, dateWidget, Sending messages that all scenarios testing using Appium.
+The APi Demos Application Automation project is designed to test and validate different features of the APi Demo using Appium. The automation scripts cover various scenarios such as Notifications functionality, Scrolling, Longpress ,Drag and Drop functionalities, dateWidget, Sending messages that all scenarios I hve tested using Appium.
 
 ## Features
 
